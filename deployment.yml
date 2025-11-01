@@ -15,7 +15,7 @@ spec:
       app: kubeserve
   template:
     metadata:
-      name: kubeserve
+      name: maroofdev
       labels:
         app: kubeserve
     spec:
